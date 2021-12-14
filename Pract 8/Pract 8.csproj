@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Pract_8</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>TextTemplate.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
